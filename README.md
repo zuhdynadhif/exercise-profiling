@@ -20,11 +20,17 @@ NPM : 2206081212
 1. JMeter all-student-name report
 ![all-student-name-after](docs/tutorial_5_readme/all-student-name-after.png)
 ![test_result_2_log_after](docs/tutorial_5_readme/test_result_2_log_after.png)
+
+Pada hasil before-after kondisi yang direpresentasikan pada gambar diatas, dapat dibandingkan bahwa terdapat peningkatan performa yang cukup signifikan setelah perbaikan pasca profiling yang lebih besar dari requirement (20%). Saya menambahkan `findFirstByOrderByGpaDesc()` pada service.
+
 2. JMeter highest-gpa report
 ![highest-gpa-after](docs/tutorial_5_readme/highest-gpa-after.png)
 ![test_result_3_log_after](docs/tutorial_5_readme/test_result_3_log_after.png)
 
-dari hasil before-after kondisi yang direpresentasikan pada gambar diatas, dapat dibandingkan bahwa terdapat peningkatan performa yang cukup signifikan setelah perbaikan pasca profiling.
+Pada hasil before-after kondisi yang direpresentasikan pada gambar diatas juga terlihat lebih dari requirement (20%). Hal ini terjadi ketika saya mengubah fungsi string concatination dengan menggunakan method append()
+.
+
+Adapun pada method yang terkait dengan all-student. Didapati bahwa peningkatan terjadi sangat signifikan hingga lebih dari requirement (20%)
 
 ### Reflection
 
