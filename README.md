@@ -10,15 +10,19 @@ NPM : 2206081212
 
 1. JMeter all-student-name report
 ![all-student-name-before](docs/tutorial_5_readme/all-student-name-before.png)
+![test_result_2_log_before](docs/tutorial_5_readme/test_result_2_log_before.png)
 2. JMeter highest-gpa report
 ![highest-gpa-before](docs/tutorial_5_readme/highest-gpa-before.png)
+![test_result_3_log_before](docs/tutorial_5_readme/test_result_3_log_before.png)
 
 ##### Performance after optimization
 
 1. JMeter all-student-name report
 ![all-student-name-after](docs/tutorial_5_readme/all-student-name-after.png)
+![test_result_2_log_after](docs/tutorial_5_readme/test_result_2_log_after.png)
 2. JMeter highest-gpa report
 ![highest-gpa-after](docs/tutorial_5_readme/highest-gpa-after.png)
+![test_result_3_log_after](docs/tutorial_5_readme/test_result_3_log_after.png)
 
 dari hasil before-after kondisi yang direpresentasikan pada gambar diatas, dapat dibandingkan bahwa terdapat peningkatan performa yang cukup signifikan setelah perbaikan pasca profiling.
 
