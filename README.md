@@ -1,4 +1,5 @@
 Nama: Zuhdy Nadhif Ayyasy
+
 NPM : 2206081212
 
 # Tutorial 5
@@ -7,11 +8,19 @@ NPM : 2206081212
 
 ##### Performance before optimization
 
-lore ipsum
+1. JMeter all-student-name report
+![all-student-name-before](docs/tutorial_5_readme/all-student-name-before.png)
+2. JMeter highest-gpa report
+![highest-gpa-before](docs/tutorial_5_readme/highest-gpa-before.png)
 
 ##### Performance after optimization
 
-lore ipsum
+1. JMeter all-student-name report
+![all-student-name-after](docs/tutorial_5_readme/all-student-name-after.png)
+2. JMeter highest-gpa report
+![highest-gpa-after](docs/tutorial_5_readme/highest-gpa-after.png)
+
+dari hasil before-after kondisi yang direpresentasikan pada gambar diatas, dapat dibandingkan bahwa terdapat peningkatan performa yang cukup signifikan setelah perbaikan pasca profiling.
 
 ### Reflection
 
